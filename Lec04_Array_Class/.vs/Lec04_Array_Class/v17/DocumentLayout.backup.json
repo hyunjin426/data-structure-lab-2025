@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\\uD64D\uD604\uC9C4\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\data-structure-lab-2025\\Lec04_Array_Class\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{63B5C59C-109A-4216-9539-770B3ABC7C76}|Lec04_Array\\Lec04_Array.vcxproj|C:\\Users\\\uD64D\uD604\uC9C4\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\data-structure-lab-2025\\Lec04_Array_Class\\Lec04_Array\\array_sub.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{63B5C59C-109A-4216-9539-770B3ABC7C76}|Lec04_Array\\Lec04_Array.vcxproj|solutionrelative:Lec04_Array\\array_sub.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{10DF9B83-5981-4794-836E-69AAB4A02EDE}|complex V4\\complex V4.vcxproj|C:\\Users\\\uD64D\uD604\uC9C4\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\data-structure-lab-2025\\Lec04_Array_Class\\complex V4\\Complex.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{10DF9B83-5981-4794-836E-69AAB4A02EDE}|complex V4\\complex V4.vcxproj|solutionrelative:complex V4\\Complex.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10DF9B83-5981-4794-836E-69AAB4A02EDE}|complex V4\\complex V4.vcxproj|C:\\Users\\\uD64D\uD604\uC9C4\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\data-structure-lab-2025\\Lec04_Array_Class\\complex V4\\complextest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{10DF9B83-5981-4794-836E-69AAB4A02EDE}|complex V4\\complex V4.vcxproj|solutionrelative:complex V4\\complextest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63B5C59C-109A-4216-9539-770B3ABC7C76}|Lec04_Array\\Lec04_Array.vcxproj|C:\\Users\\\uD64D\uD604\uC9C4\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\data-structure-lab-2025\\Lec04_Array_Class\\Lec04_Array\\name.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{63B5C59C-109A-4216-9539-770B3ABC7C76}|Lec04_Array\\Lec04_Array.vcxproj|solutionrelative:Lec04_Array\\name.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63B5C59C-109A-4216-9539-770B3ABC7C76}|Lec04_Array\\Lec04_Array.vcxproj|C:\\Users\\\uD64D\uD604\uC9C4\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\data-structure-lab-2025\\Lec04_Array_Class\\Lec04_Array\\Car.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{63B5C59C-109A-4216-9539-770B3ABC7C76}|Lec04_Array\\Lec04_Array.vcxproj|solutionrelative:Lec04_Array\\Car.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +26,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "array_sub.cpp",
-              "DocumentMoniker": "C:\\Users\\\uD64D\uD604\uC9C4\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\data-structure-lab-2025\\Lec04_Array_Class\\Lec04_Array\\array_sub.cpp",
-              "RelativeDocumentMoniker": "Lec04_Array\\array_sub.cpp",
-              "ToolTip": "C:\\Users\\\uD64D\uD604\uC9C4\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\data-structure-lab-2025\\Lec04_Array_Class\\Lec04_Array\\array_sub.cpp",
-              "RelativeToolTip": "Lec04_Array\\array_sub.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAswA0AAAAsAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Car.h",
+              "DocumentMoniker": "C:\\Users\\\uD64D\uD604\uC9C4\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\data-structure-lab-2025\\Lec04_Array_Class\\Lec04_Array\\Car.h",
+              "RelativeDocumentMoniker": "Lec04_Array\\Car.h",
+              "ToolTip": "C:\\Users\\\uD64D\uD604\uC9C4\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\data-structure-lab-2025\\Lec04_Array_Class\\Lec04_Array\\Car.h",
+              "RelativeToolTip": "Lec04_Array\\Car.h",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAgwBAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-31T01:18:28.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "name.cpp",
+              "DocumentMoniker": "C:\\Users\\\uD64D\uD604\uC9C4\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\data-structure-lab-2025\\Lec04_Array_Class\\Lec04_Array\\name.cpp",
+              "RelativeDocumentMoniker": "Lec04_Array\\name.cpp",
+              "ToolTip": "C:\\Users\\\uD64D\uD604\uC9C4\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\data-structure-lab-2025\\Lec04_Array_Class\\Lec04_Array\\name.cpp",
+              "RelativeToolTip": "Lec04_Array\\name.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-26T00:25:25.621Z",
+              "WhenOpened": "2025-03-31T01:18:08.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "complextest.cpp",
+              "DocumentMoniker": "C:\\Users\\\uD64D\uD604\uC9C4\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\data-structure-lab-2025\\Lec04_Array_Class\\complex V4\\complextest.cpp",
+              "RelativeDocumentMoniker": "complex V4\\complextest.cpp",
+              "ToolTip": "C:\\Users\\\uD64D\uD604\uC9C4\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\data-structure-lab-2025\\Lec04_Array_Class\\complex V4\\complextest.cpp",
+              "RelativeToolTip": "complex V4\\complextest.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-31T00:56:36.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "complex.h",
+              "DocumentMoniker": "C:\\Users\\\uD64D\uD604\uC9C4\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\data-structure-lab-2025\\Lec04_Array_Class\\complex V4\\complex.h",
+              "RelativeDocumentMoniker": "complex V4\\complex.h",
+              "ToolTip": "C:\\Users\\\uD64D\uD604\uC9C4\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\data-structure-lab-2025\\Lec04_Array_Class\\complex V4\\complex.h",
+              "RelativeToolTip": "complex V4\\complex.h",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-31T00:54:11.199Z",
               "EditorCaption": ""
             }
           ]
