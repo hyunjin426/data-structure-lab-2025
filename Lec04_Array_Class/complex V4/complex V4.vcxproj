@@ -128,7 +128,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClInclude Include="complex.h" />
+    <ClInclude Include="Complex.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="complextest.cpp" />
